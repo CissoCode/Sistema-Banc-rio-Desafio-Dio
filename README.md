@@ -1,4 +1,4 @@
-# Sistema-Banc-rio-Desafio-Dio
+# Sistema-Bancario-Desafio-Dio
 menu = """
 
 [depositar] Depositar
